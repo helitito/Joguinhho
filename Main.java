@@ -24,7 +24,7 @@ public class Main {
     }
         public void jogar() {
             System.out.println("Tente não olhar!");
-            System.out.println("Escolha uma direção: Cima,Baixo,Esuerda ou Direita");
+            System.out.println("Escolha uma direção: Cima,Baixo,Esquerda ou Direita");
             String escolha = sc.nextLine();
             escolha = escolha.toLowerCase();
 
